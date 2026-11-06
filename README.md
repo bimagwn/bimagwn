@@ -18,8 +18,6 @@ Mahasiswa Informatika di Universitas Gunadarma. Saya membangun aplikasi web, gam
 | Proyek | Isi |
 |---|---|
 | [BimaGunawan](https://github.com/bimagwn/BimaGunawan) | RamenKu: kode, materi, tugas, dan laporan praktikum RPL 2 per pertemuan |
-| [autodok](https://github.com/bimagwn/autodok) | AutoDok: automasi dokumen SPK, Kwitansi, dan BAST (Java NetBeans + MySQL, ekspor PDF dan Word) |
-| [prakiraan-udara-jabodetabek](https://github.com/bimagwn/prakiraan-udara-jabodetabek) | Sistem prediksi PM2.5 Jabodetabek (Random Forest + Streamlit) |
 
 ### Proyek lain 🔒
 
@@ -27,6 +25,9 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 | Proyek | Isi | Teknologi |
 |---|---|---|
+| 📄 **AutoDok** | Automasi dokumen SPK, Kwitansi, dan BAST dengan ekspor PDF dan Word | Java Swing, MySQL |
+| 🏢 **Dokumen Otomatis CV Andalan** | Aplikasi pembuat dokumen bisnis otomatis (proyek kelompok P3L) | JavaScript, Cloudflare D1, MySQL |
+| 🌫️ **Prakiraan Udara Jabodetabek** | Sistem prediksi PM2.5 wilayah Jabodetabek | Python, Random Forest, Streamlit |
 | 🎓 **STKMS** | Dasbor premium untuk mahasiswa Gunadarma: jadwal, kehadiran, dan verifikasi KTM | JavaScript, Supabase, Cloudflare Pages |
 | 🎬 **CinéReign** | Platform streaming film bergaya sinematik | Next.js, Prisma, PostgreSQL, FFmpeg (HLS) |
 | 🎧 **Ruang Dengar** | Pemutar channel, video, dan musik dengan progres tersinkron | JavaScript, Cloudflare D1 |
