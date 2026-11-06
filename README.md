@@ -10,11 +10,37 @@ Mahasiswa Informatika, Universitas Gunadarma (kelas 4IA24), yang suka membangun 
 
 ## Proyek
 
+### Terbuka di GitHub
+
 | Proyek | Isi |
 |---|---|
 | [BimaGunawan](https://github.com/bimagwn/BimaGunawan) | RamenKu: kode, materi, tugas, dan laporan praktikum RPL 2 per pertemuan |
 | [autodok](https://github.com/bimagwn/autodok) | AutoDok: automasi dokumen SPK, Kwitansi, dan BAST (Java NetBeans + MySQL, ekspor PDF dan Word) |
-| [prakiraan-udara-jabodetabek](https://github.com/bimagwn/prakiraan-udara-jabodetabek) | Sistem prediksi PM2.5 Jabodetabek |
+| [prakiraan-udara-jabodetabek](https://github.com/bimagwn/prakiraan-udara-jabodetabek) | Sistem prediksi PM2.5 Jabodetabek (Random Forest + Streamlit) |
+
+### Proyek lain 🔒
+
+Repo-nya privat, tetapi ini yang pernah saya bangun.
+
+| Proyek | Isi | Teknologi |
+|---|---|---|
+| 🎓 **STKMS** | Dasbor premium untuk mahasiswa Gunadarma: jadwal, kehadiran, dan verifikasi KTM | JavaScript, Supabase, Cloudflare Pages |
+| 🎬 **CinéReign** | Platform streaming film bergaya sinematik | Next.js, Prisma, PostgreSQL, FFmpeg (HLS) |
+| 🎧 **Ruang Dengar** | Pemutar channel, video, dan musik dengan progres tersinkron | JavaScript, Cloudflare D1 |
+| 📺 **Ruang Nonton** | Nonton bareng dengan pemutaran tersinkron | Cloudflare Workers, Durable Objects |
+| ▶️ **Video Stream PWA** | Aplikasi streaming video pribadi | Next.js, Supabase, Cloudflare Pages |
+| 🏪 **Toko Asmail** | Manajemen toko kelontong | React, Vite, Express, SQLite |
+| 🍜 **Ichigo Ramen POS** | Aplikasi kasir untuk usaha ramen | JavaScript (PWA) |
+| 📝 **Lembar** | Penyusun laporan akhir praktikum langsung menjadi Word | JavaScript, Cloudflare Pages |
+| 📊 **Rona** | Pengolah laporan harian dan mingguan menjadi format rapi | JavaScript, Cloudflare Workers, KV, D1 |
+| 🌱 **Akar** | Pelacak perjalanan pengembangan diri selama tiga tahun | JavaScript (PWA), Cloudflare D1 |
+| 📅 **Janji Temu** | Agenda kuliah dan janji dengan pengingat | JavaScript (PWA), Cloudflare D1 |
+| 🧘 **Hening** | Ruang fokus dengan timer, suara latar, dan napas terpandu | JavaScript, Web Audio |
+| 🐸 **Terrarium** | Paludarium 3D interaktif dengan desa dan makhluk hidup | Three.js, Vite |
+| 🎙️ **Transkrip** | Mengubah rekaman panjang menjadi teks | Cloudflare Workers AI (Whisper) |
+| 🃏 **COUP Online** | Game Coup multiplayer 2 sampai 10 pemain dengan chat | JavaScript, Firebase |
+| 🎮 **Kode Keras** | Game visual novel dua pemain | JavaScript, Cloudflare Pages |
+| 📹 **Ngeriset** | Kanal YouTube animasi penasaran, dibuat dengan alur otomatis | Python, FFmpeg |
 
 ## Teknologi yang saya pakai
 
