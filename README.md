@@ -4,11 +4,12 @@ Mahasiswa Informatika di Universitas Gunadarma. Saya membangun aplikasi web, gam
 
 🎓 Informatika  ·  💻 Java dan web  ·  🌱 Selalu belajar hal baru
 
-## Yang sedang saya kerjakan
+## 🚀 Sedang saya kerjakan
 
-- **Praktikum Rekayasa Perangkat Lunak 2**: aplikasi kedai ramen *RamenKu* dengan Java Swing, MySQL, dan kini Hibernate.
-- **Otomasi dokumen**: aplikasi yang membuat SPK, kwitansi, dan BAST secara otomatis.
-- **Analisis data**: prediksi kualitas udara (PM2.5) wilayah Jabodetabek.
+- 🍜 **RamenKu**: aplikasi kedai ramen untuk praktikum Rekayasa Perangkat Lunak 2, dibangun dengan Java Swing, MySQL, dan Hibernate.
+- 📄 **Aplikasi dokumen otomatis**: proyek kelompok yang membuat dokumen bisnis secara otomatis lewat satu formulir.
+- 📹 **Kanal Ngeriset**: video animasi singkat tentang hal-hal yang bikin penasaran.
+- 🔐 **Keamanan web**: belajar menemukan celah pada aplikasi web secara bertanggung jawab.
 
 ## Proyek
 
