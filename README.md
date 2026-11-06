@@ -1,6 +1,8 @@
-# Halo, saya Bima Gunawan
+# 👋 Halo, saya Bima Gunawan
 
-Mahasiswa Informatika, Universitas Gunadarma (kelas 4IA24), yang suka membangun aplikasi sampai benar-benar jalan dan rapi.
+Mahasiswa Informatika di Universitas Gunadarma. Saya membangun aplikasi web, game, dan alat kecil, dari ide sampai benar-benar dipakai.
+
+🎓 Informatika  ·  💻 Java dan web  ·  🌱 Selalu belajar hal baru
 
 ## Yang sedang saya kerjakan
 
