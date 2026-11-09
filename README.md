@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=230&section=header&text=Bima%20Gunawan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Builder%20of%20Web%20Apps%20%26%20Games&descSize=19&descAlignY=60" width="100%" alt="Bima Gunawan" />
+<img src="assets/banner.svg" width="100%" alt="Bima Gunawan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Membangun+aplikasi+web+yang+rapi;Game+dan+alat+kecil+yang+benar-benar+dipakai;Java+%C2%B7+TypeScript+%C2%B7+Cloudflare;Selalu+belajar+hal+baru" alt="Bima Gunawan: membangun aplikasi web" />
 
@@ -87,6 +87,6 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=110&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
