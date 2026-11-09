@@ -1,25 +1,41 @@
-# 👋 Halo, saya Bima Gunawan
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=230&section=header&text=Bima%20Gunawan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Builder%20of%20Web%20Apps%20%26%20Games&descSize=19&descAlignY=60" width="100%" alt="Bima Gunawan" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Membangun+aplikasi+web+yang+rapi;Game+dan+alat+kecil+yang+benar-benar+dipakai;Java+%C2%B7+TypeScript+%C2%B7+Cloudflare;Selalu+belajar+hal+baru" alt="Bima Gunawan: membangun aplikasi web" />
+
+<br>
+
+![Gunadarma](https://img.shields.io/badge/Universitas-Gunadarma-4c1d95?style=for-the-badge)
+![Jurusan](https://img.shields.io/badge/Informatika-7c3aed?style=for-the-badge)
+![Repo](https://img.shields.io/badge/23%20repositori-0f172a?style=for-the-badge&logo=github)
+
+</div>
+
+## 👋 Tentang saya
 
 Mahasiswa Informatika di Universitas Gunadarma. Saya membangun aplikasi web, game, dan alat kecil, dari ide sampai benar-benar dipakai.
 
-🎓 Informatika  ·  💻 Java dan web  ·  🌱 Selalu belajar hal baru
-
 ## 🚀 Sedang saya kerjakan
 
-- 🍜 **RamenKu**: aplikasi kedai ramen untuk praktikum Rekayasa Perangkat Lunak 2, dibangun dengan Java Swing, MySQL, dan Hibernate.
-- 📄 **Aplikasi dokumen otomatis**: proyek kelompok yang membuat dokumen bisnis secara otomatis lewat satu formulir.
-- 📹 **Kanal Ngeriset**: video animasi singkat tentang hal-hal yang bikin penasaran.
-- 🔐 **Keamanan web**: belajar menemukan celah pada aplikasi web secara bertanggung jawab.
+<table>
+<tr>
+<td width="25%" align="center">🍜<br><b>RamenKu</b><br><sub>Aplikasi kedai ramen untuk praktikum RPL 2: Java Swing, MySQL, Hibernate</sub></td>
+<td width="25%" align="center">📄<br><b>Dokumen otomatis</b><br><sub>Proyek kelompok pembuat dokumen bisnis lewat satu formulir</sub></td>
+<td width="25%" align="center">📹<br><b>Kanal Ngeriset</b><br><sub>Video animasi singkat tentang hal-hal yang bikin penasaran</sub></td>
+<td width="25%" align="center">🔐<br><b>Keamanan web</b><br><sub>Belajar menemukan celah aplikasi web secara bertanggung jawab</sub></td>
+</tr>
+</table>
 
-## Proyek
+## 🧱 Proyek
 
-### Terbuka di GitHub
+### 🌐 Terbuka di GitHub
 
 | Proyek | Isi |
 |---|---|
-| [BimaGunawan](https://github.com/bimagwn/BimaGunawan) | RamenKu: kode, materi, tugas, dan laporan praktikum RPL 2 per pertemuan |
+| [**BimaGunawan**](https://github.com/bimagwn/BimaGunawan) | RamenKu: kode, materi, tugas, dan laporan praktikum RPL 2 per pertemuan |
 
-### Proyek lain 🔒
+### 🔒 Proyek lain
 
 Repo-nya privat, tetapi ini yang pernah saya bangun.
 
@@ -46,22 +62,31 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 | 🎮 **Kode Keras** | Game visual novel dua pemain | JavaScript, Cloudflare Pages |
 | 📹 **Ngeriset** | Kanal YouTube animasi penasaran, dibuat dengan alur otomatis | Python, FFmpeg |
 
-## Teknologi yang saya pakai
+## 🛠️ Teknologi
 
-**Bahasa**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<div align="center">
 
-**Web dan antarmuka**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat&logo=openjdk&logoColor=white)
+**Bahasa**<br><img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css&perline=12" alt="" />
 
-**Backend dan database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**Web dan antarmuka**<br><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&perline=12" alt="" />
 
-**Cloud dan deploy**  
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white) ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflarepages&logoColor=white) ![Cloudflare D1](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=flat&logo=cloudflare&logoColor=white) ![Durable Objects](https://img.shields.io/badge/Durable%20Objects-F38020?style=flat&logo=cloudflare&logoColor=white) ![Workers AI](https://img.shields.io/badge/Workers%20AI-F38020?style=flat&logo=cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+**Backend dan database**<br><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,sqlite,prisma,supabase,firebase&perline=12" alt="" />
 
-**Data dan AI**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Cloud dan deploy**<br><img src="https://skillicons.dev/icons?i=cloudflare,netlify&perline=12" alt="" />
 
-**Alat**  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![JasperReports](https://img.shields.io/badge/JasperReports-C41E3A?style=flat&logo=jasper&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+**Data dan AI**<br><img src="https://skillicons.dev/icons?i=pandas,numpy,opencv,jupyter&perline=12" alt="" />
+
+**Alat**<br><img src="https://skillicons.dev/icons?i=git,maven,vscode&perline=12" alt="" />
+
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Workers AI](https://img.shields.io/badge/Workers%20AI-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=110&section=footer" width="100%" alt="" />
+
+</div>
