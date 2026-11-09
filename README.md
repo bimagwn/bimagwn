@@ -2,13 +2,13 @@
 
 <img src="assets/banner.svg" width="100%" alt="Bima Gunawan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1700&color=C4B5FD&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Bima+Gunawan.;I+build+things+that+feel+as+good+as+they+work.;From+a+quiet+idea+to+something+people+use.;Curious+mind.+Careful+craft.;Let's+make+something+worth+remembering." alt="Bima Gunawan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1700&color=E5E5EA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Bima+Gunawan.;I+build+things+that+feel+as+good+as+they+work.;From+a+quiet+idea+to+something+people+use.;Curious+mind.+Careful+craft.;Let's+make+something+worth+remembering." alt="Bima Gunawan" />
 
 <br>
 
-![Gunadarma](https://img.shields.io/badge/Universitas-Gunadarma-4c1d95?style=for-the-badge)
-![Jurusan](https://img.shields.io/badge/Informatika-7c3aed?style=for-the-badge)
-![Repo](https://img.shields.io/badge/23%20repositori-0f172a?style=for-the-badge&logo=github)
+![Gunadarma](https://img.shields.io/badge/Universitas-Gunadarma-27272a?style=for-the-badge)
+![Jurusan](https://img.shields.io/badge/Informatika-52525b?style=for-the-badge)
+![Repo](https://img.shields.io/badge/23%20repositori-18181b?style=for-the-badge&logo=github)
 
 </div>
 
@@ -78,10 +78,10 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 **Alat**<br><img src="https://skillicons.dev/icons?i=git,maven,vscode&perline=12" alt="" />
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Workers AI](https://img.shields.io/badge/Workers%20AI-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-3f3f46?style=for-the-badge&logo=hibernate&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-3f3f46?style=for-the-badge&logo=streamlit&logoColor=white)
+![Workers AI](https://img.shields.io/badge/Workers%20AI-3f3f46?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-3f3f46?style=for-the-badge&logo=hono&logoColor=white)
 
 </div>
 
