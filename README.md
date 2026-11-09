@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Bima Gunawan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Hi,+I'm+Bima+Gunawan;I+build+web+apps,+games+%26+handy+tools;Java+%C2%B7+TypeScript+%C2%B7+Cloudflare;Always+learning,+always+shipping" alt="Bima Gunawan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1600&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Bima.+Nice+to+meet+you.;I+turn+small+ideas+into+things+people+love+to+use.;Thoughtful+design.+Quiet+code.+Details+that+matter.;Still+learning.+Always+building." alt="Bima Gunawan" />
 
 <br>
 
