@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Bima Gunawan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Membangun+aplikasi+web+yang+rapi;Game+dan+alat+kecil+yang+benar-benar+dipakai;Java+%C2%B7+TypeScript+%C2%B7+Cloudflare;Selalu+belajar+hal+baru" alt="Bima Gunawan: membangun aplikasi web" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Hi,+I'm+Bima+Gunawan;I+build+web+apps,+games+%26+handy+tools;Java+%C2%B7+TypeScript+%C2%B7+Cloudflare;Always+learning,+always+shipping" alt="Bima Gunawan" />
 
 <br>
 
