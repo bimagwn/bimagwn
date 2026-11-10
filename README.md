@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-animasi.svg" width="100%" alt="Bima Gunawan" />
+<img src="assets/hero-3d.webp" width="100%" alt="Bima Gunawan: konstelasi proyek dalam 3D" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1700&color=E5E5EA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Bima+Gunawan.;I+build+things+that+feel+as+good+as+they+work.;From+a+quiet+idea+to+something+people+use.;Curious+mind.+Careful+craft.;Let's+make+something+worth+remembering." alt="Bima Gunawan" />
 
