@@ -97,7 +97,7 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 <div align="center">
 
-<img src="assets/teknologi-animasi.svg" width="100%" alt="Teknologi yang saya pakai" />
+<img src="assets/teknologi-bergerak.svg" width="100%" alt="Teknologi yang saya pakai" />
 
 </div>
 
