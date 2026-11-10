@@ -103,6 +103,10 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 <img src="assets/teknologi-3d.webp" width="100%" alt="Bola teknologi 3D" />
 
+**▶ Versi 2K · 120 fps** (klik putar)
+
+https://github.com/user-attachments/assets/95fec164-1037-4bbe-8217-d691d1934186
+
 <img src="assets/teknologi-bergerak.svg" width="100%" alt="Teknologi yang saya pakai" />
 
 </div>
