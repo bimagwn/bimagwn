@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-hitam-putih.svg" width="100%" alt="Bima Gunawan" />
+<img src="assets/banner-animasi.svg" width="100%" alt="Bima Gunawan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1700&color=E5E5EA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Bima+Gunawan.;I+build+things+that+feel+as+good+as+they+work.;From+a+quiet+idea+to+something+people+use.;Curious+mind.+Careful+craft.;Let's+make+something+worth+remembering." alt="Bima Gunawan" />
 
@@ -97,6 +97,17 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 <div align="center">
 
+<img src="assets/teknologi-animasi.svg" width="100%" alt="Teknologi yang saya pakai" />
+
+</div>
+
+<details>
+<summary><b>🔎 Lihat per kategori</b></summary>
+
+<br>
+
+<div align="center">
+
 **Bahasa**<br>
 ![Java](https://img.shields.io/badge/Java-27272a?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-27272a?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-27272a?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-27272a?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-27272a?style=flat-square&logo=css3&logoColor=white)
 
@@ -117,8 +128,10 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 </div>
 
+</details>
+
 <div align="center">
 
-<img src="assets/footer-hitam-putih.svg" width="100%" alt="" />
+<img src="assets/footer-animasi.svg" width="100%" alt="" />
 
 </div>
