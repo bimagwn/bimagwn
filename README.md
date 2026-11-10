@@ -27,7 +27,36 @@ Mahasiswa Informatika di Universitas Gunadarma. Saya membangun aplikasi web, gam
 </tr>
 </table>
 
-## 🧱 Proyek
+## 🍜 Perjalanan RamenKu
+
+Satu aplikasi yang tumbuh setiap pekan di praktikum Rekayasa Perangkat Lunak 2.
+
+| Pekan | Tahap | Status |
+|:--:|---|:--:|
+| 1 | Rancangan aplikasi kedai ramen | ✅ |
+| 2 | OOP: Encapsulation, Inheritance, Polymorphism | ✅ |
+| 3 | Login, tiga fitur, JDBC ke MySQL, laporan PDF | ✅ |
+| 4 | Hibernate: entitas, HQL, dan transaksi | ✅ |
+| 5 sampai 7 | Menyusul | ⏳ |
+| 8 | Ujian praktikum | 🎯 |
+
+👉 [Lihat repositorinya](https://github.com/bimagwn/BimaGunawan)
+
+## ✨ Sorotan proyek
+
+<table>
+<tr>
+<td width="33%" valign="top">🎓 <b>STKMS</b><br><sub>Dasbor premium mahasiswa Gunadarma: jadwal, kehadiran, verifikasi KTM</sub><br><sub><code>Supabase · Cloudflare</code></sub></td><td width="33%" valign="top">🎬 <b>CinéReign</b><br><sub>Platform streaming film bergaya sinematik</sub><br><sub><code>Next.js · Prisma · FFmpeg</code></sub></td><td width="33%" valign="top">🎧 <b>Ruang Dengar</b><br><sub>Perpustakaan dengar: channel, video, dan musik tersinkron</sub><br><sub><code>Cloudflare D1 · PWA</code></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top">📺 <b>Ruang Nonton</b><br><sub>Nonton bareng dengan pemutaran tersinkron</sub><br><sub><code>Durable Objects</code></sub></td><td width="33%" valign="top">🐸 <b>Terrarium</b><br><sub>Paludarium 3D interaktif dengan desa dan makhluk hidup</sub><br><sub><code>Three.js · Vite</code></sub></td><td width="33%" valign="top">📝 <b>Lembar</b><br><sub>Penyusun laporan praktikum langsung menjadi Word</sub><br><sub><code>JavaScript · Pages</code></sub></td>
+</tr>
+</table>
+
+<details>
+<summary><b>📚 Lihat semua proyek</b></summary>
+
+<br>
 
 ### 🌐 Terbuka di GitHub
 
@@ -35,7 +64,7 @@ Mahasiswa Informatika di Universitas Gunadarma. Saya membangun aplikasi web, gam
 |---|---|
 | [**BimaGunawan**](https://github.com/bimagwn/BimaGunawan) | RamenKu: kode, materi, tugas, dan laporan praktikum RPL 2 per pertemuan |
 
-### 🔒 Proyek lain
+### 🔒 Repo privat
 
 Repo-nya privat, tetapi ini yang pernah saya bangun.
 
@@ -62,26 +91,29 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 | 🎮 **Kode Keras** | Game visual novel dua pemain | JavaScript, Cloudflare Pages |
 | 📹 **Ngeriset** | Kanal YouTube animasi penasaran, dibuat dengan alur otomatis | Python, FFmpeg |
 
+</details>
+
 ## 🛠️ Teknologi
 
 <div align="center">
 
-**Bahasa**<br><img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css&perline=12" alt="" />
+**Bahasa**<br>
+![Java](https://img.shields.io/badge/Java-27272a?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-27272a?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-27272a?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-27272a?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-27272a?style=flat-square&logo=css3&logoColor=white)
 
-**Web dan antarmuka**<br><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&perline=12" alt="" />
+**Web dan antarmuka**<br>
+![React](https://img.shields.io/badge/React-27272a?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-27272a?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-27272a?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-27272a?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-27272a?style=flat-square&logo=threedotjs&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-27272a?style=flat-square&logo=pwa&logoColor=white)
 
-**Backend dan database**<br><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,sqlite,prisma,supabase,firebase&perline=12" alt="" />
+**Backend dan database**<br>
+![Node.js](https://img.shields.io/badge/Node.js-27272a?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-27272a?style=flat-square&logo=express&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-27272a?style=flat-square&logo=hono&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-27272a?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-27272a?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-27272a?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-27272a?style=flat-square&logo=prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-27272a?style=flat-square&logo=hibernate&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-27272a?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-27272a?style=flat-square&logo=firebase&logoColor=white)
 
-**Cloud dan deploy**<br><img src="https://skillicons.dev/icons?i=cloudflare,netlify&perline=12" alt="" />
+**Cloud dan deploy**<br>
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-27272a?style=flat-square&logo=cloudflare&logoColor=white) ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-27272a?style=flat-square&logo=cloudflarepages&logoColor=white) ![Cloudflare D1](https://img.shields.io/badge/Cloudflare%20D1-27272a?style=flat-square&logo=cloudflare&logoColor=white) ![Workers AI](https://img.shields.io/badge/Workers%20AI-27272a?style=flat-square&logo=cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-27272a?style=flat-square&logo=netlify&logoColor=white)
 
-**Data dan AI**<br><img src="https://skillicons.dev/icons?i=pandas,numpy,opencv,jupyter&perline=12" alt="" />
+**Data dan AI**<br>
+![pandas](https://img.shields.io/badge/pandas-27272a?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-27272a?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-27272a?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-27272a?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27272a?style=flat-square&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-27272a?style=flat-square&logo=jupyter&logoColor=white)
 
-**Alat**<br><img src="https://skillicons.dev/icons?i=git,maven,vscode&perline=12" alt="" />
-
-![Hibernate](https://img.shields.io/badge/Hibernate-3f3f46?style=for-the-badge&logo=hibernate&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-3f3f46?style=for-the-badge&logo=streamlit&logoColor=white)
-![Workers AI](https://img.shields.io/badge/Workers%20AI-3f3f46?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-3f3f46?style=for-the-badge&logo=hono&logoColor=white)
+**Alat**<br>
+![Git](https://img.shields.io/badge/Git-27272a?style=flat-square&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-27272a?style=flat-square&logo=apachemaven&logoColor=white) ![JasperReports](https://img.shields.io/badge/JasperReports-27272a?style=flat-square&logo=jasper&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-27272a?style=flat-square&logo=playwright&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-27272a?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
