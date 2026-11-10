@@ -97,6 +97,8 @@ Repo-nya privat, tetapi ini yang pernah saya bangun.
 
 <div align="center">
 
+<img src="assets/teknologi-3d.webp" width="100%" alt="Bola teknologi 3D" />
+
 <img src="assets/teknologi-bergerak.svg" width="100%" alt="Teknologi yang saya pakai" />
 
 </div>
