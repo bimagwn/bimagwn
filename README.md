@@ -2,7 +2,9 @@
 
 <img src="assets/hero-3d.webp" width="100%" alt="Bima Gunawan: konstelasi proyek dalam 3D" />
 
-<a href="video/hero-2k-120fps.mp4"><b>▶ Tonton versi 2K · 120 fps</b></a>
+**▶ Versi 2K · 120 fps** (klik putar)
+
+https://github.com/user-attachments/assets/199e2428-e856-4985-aac6-bbb7e21da81c
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1700&color=E5E5EA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Bima+Gunawan.;I+build+things+that+feel+as+good+as+they+work.;From+a+quiet+idea+to+something+people+use.;Curious+mind.+Careful+craft.;Let's+make+something+worth+remembering." alt="Bima Gunawan" />
 
